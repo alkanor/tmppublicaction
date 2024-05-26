@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+tmpfs
+.DS_Store
+.venv
+.idea
+*.egg-info
+tests
