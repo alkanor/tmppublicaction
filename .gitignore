@@ -2,7 +2,9 @@
 __pycache__
 tmpfs
 .DS_Store
-.venv
+venv
 .idea
 *.egg-info
 tests
+dist
+build
